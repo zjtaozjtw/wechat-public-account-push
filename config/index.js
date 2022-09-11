@@ -49,7 +49,7 @@ export const config = {
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: "o3G3a5_ZVshL3ZqoNSSIcTSFyvY4",
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: "Lv5B4VLdASzYqLRYRkyr8WFshCwsmSUOCKaWzytpOuw",
+      useTemplateId: "AFFmXBPI3u7xiJP2hG50w9W5ReXxe0iYVPnsqDKcufM",
       // 所在省份
       province: "湖北",
       // 所在城市
@@ -115,7 +115,7 @@ export const config = {
   CUSTOMIZED_DATE_LIST: [
     // 在一起的日子
     {"keyword": "love_day", date: "2022-08-27"},
-    {"keyword": "chat_day", date: "2022-04-21"},
+    {"keyword": "chat_day", date: "2022-04-10"},
     // ... 
   ],
 
