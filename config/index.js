@@ -31,18 +31,18 @@ export const config = {
   USERS: [
     //{
       // 想要发送的人的名字
-      //name: "老婆",
+      name: "老婆",
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      //id: "o3G3a5_duDFJDZ6JyAYGLhdHiS7U",
+      id: "o3G3a5_duDFJDZ6JyAYGLhdHiS7U",
       // 你想对他发送的模板消息的模板ID
-      //useTemplateId: "WmxJ2e2OFPo2pL-7clrglYKcC9BfeZfEuT05l8vrlsc",
+      useTemplateId: "AFFmXBPI3u7xiJP2hG50w9W5ReXxe0iYVPnsqDKcufM",
       // 所在省份
-      //province: "湖北",
+      province: "湖北",
       // 所在城市
-      //city: "黄冈",
+      city: "黄冈",
       // 他点击详情后跳转的页面,你可以设置成微博的热榜，也可以设置成其他，网址一定要填对；不填对也没关系，随便你，会打不开而已。
-      //openUrl: "https://www.bilibili.com/"
-    //}, 
+      openUrl: "https://www.bilibili.com/"
+    }, 
     {
       // 想要发送的人的名字
       name: "自己",
@@ -115,7 +115,7 @@ export const config = {
   CUSTOMIZED_DATE_LIST: [
     // 在一起的日子
     {"keyword": "love_day", date: "2022-08-27"},
-    {"keyword": "chat_day", date: "2022-04-10"},
+    {"keyword": "chat_day", date: "2022-05-10"},
     // ... 
   ],
 
